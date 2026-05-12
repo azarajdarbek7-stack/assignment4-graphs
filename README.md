@@ -23,12 +23,8 @@ Both BFS and DFS have a time complexity of **O(V + E)**.
 | 100 vertices | 1,017,000 | 794,200 |
 
 ## Screenshots
-### 1. Graph Structure
-![Structure](docs/screenshots/structure.png)
-### 2. Traversal Output (BFS/DFS Order)
-![Traversal](docs/screenshots/traversal.png)
-### 3. Performance Results
-![Performance](docs/screenshots/performance.png)
-
+![Structure](structure.png)
+![Traversal](traversal.png)
+![Performance](performance.png)
 ## Reflection
 I learned how to represent graphs and the practical differences between BFS and DFS. The main challenge was correctly measuring time in nanoseconds for small graphs and ensuring the project structure matches the requirements.
