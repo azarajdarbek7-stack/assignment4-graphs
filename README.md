@@ -48,15 +48,13 @@ For this project, I chose an **Adjacency List** (implemented via `HashMap<Intege
 ## 6. Project Screenshots
 
 ### 1. Small Graph (10 vertices)
-![Small Graph Results](performance.png) 
-
+![Small Graph](10_vertices.png)
 
 ### 2. Medium Graph (30 vertices)
-![Medium Graph Results](traversal.png)
-
+![Medium Graph](30_vertices.png)
 
 ### 3. Large Graph (100 vertices)
-![Large Graph Results](structure.png)
+![Large Graph](100_vertices.png)
 
 
 ## 7. Professional Reflection
