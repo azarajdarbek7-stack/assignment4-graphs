@@ -46,14 +46,18 @@ For this project, I chose an **Adjacency List** (implemented via `HashMap<Intege
 **Q: How do you prevent infinite loops?** A: I use a `Set<Integer> visited`. Checking a Set takes **$O(1)$** time, ensuring the algorithm remains fast while skipping already processed nodes.
 
 ## 6. Project Screenshots
+
 ### 1. Small Graph (10 vertices)
-![Performance1](performance.png)
+![Small Graph Results](performance.png) 
+
 
 ### 2. Medium Graph (30 vertices)
-![Traversal](traversal.png)
+![Medium Graph Results](traversal.png)
+
 
 ### 3. Large Graph (100 vertices)
-![Structure](structure.png)
+![Large Graph Results](structure.png)
+
 
 ## 7. Professional Reflection
 This assignment provided deep insight into how abstract data structures perform in real-world scenarios. 
